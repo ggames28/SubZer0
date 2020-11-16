@@ -16,7 +16,7 @@
 
     <name>SubZer0-Parent</name>
     <description>Parent project for all PaperSpigot modules.</description>
-    <url>https://github.com/PaperSpigot/Spigot</url>
+    <url>https://github.com/Pixchure/SubZer0</url>
 
     <modules>
         <module>SubZer0-Server</module>
