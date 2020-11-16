@@ -1,13 +1,12 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub]) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ SubZer0 is an Open-Source Custom fork of PaperMC Mainly For Minecraft 1.8.8
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Why I Made SubZer0
+on November 14 2020 My Minecraft Server Got Backdoored By Someone Going By The Name "ElevenXD" The Way They Got In Was A Custom Firmware Called "Hypixel.jar" It Was Supposed To Be A "Better Version Of PaperMC" But All It Was Is A Backdoored Outdated Version Of CraftBukkit That STOLE Server Files And Gave Them To Eleven
 
+Me And Eleven's DMs On Discord
 ```markdown
 Syntax highlighted code block
 
@@ -15,7 +14,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- 
 - List
 
 1. Numbered
