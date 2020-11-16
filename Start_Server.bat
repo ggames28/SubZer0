@@ -1,0 +1,1 @@
+java -server -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:ParallelGCThreads=4 -XX:+AggressiveOpts -Xms4G -Xmx4G -jar SubZer0.jar gui
